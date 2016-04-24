@@ -3,7 +3,7 @@
 This is a test of creating a new post
 Jekyll also offers powerful support for code snippets:
 
-1. Quoted with three primes
+* Quoted with three primes
 
 ```java
 public class JavaClass {
@@ -12,7 +12,7 @@ public class JavaClass {
 }
 ```
 
-2. Using indentation
+* Using indentation
 
         public class SomeClass {
           int i;
