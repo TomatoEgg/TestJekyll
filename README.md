@@ -2,6 +2,7 @@
 
 This is a test of creating a new post
 Jekyll also offers powerful support for code snippets:
+
 1. Quoted with three primes
 
 ```java
