@@ -2,15 +2,6 @@
 
 This is a test of creating a new post
 Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
 {% highlight java %}
 public class JavaClass {
   int i;
